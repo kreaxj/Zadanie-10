@@ -1,0 +1,53 @@
+.cont {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo {
+	font-size: 30px;
+	color: gold;
+}
+
+.z {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.x {
+    margin-left: 30px;
+}
+
+.c {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.buttons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: #fff;
+}
+
+ .kontakt {
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0
+}
+
+ main {
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1000px;
+ }
